@@ -12,7 +12,7 @@ A modern, responsive landing page for a coffee shop — built with **HTML** and 
 
 ## 📸 Preview
 
-![Coffee Landing Page Screenshot](preview.png)  
+![Coffee Landing Page Screenshot](https://github.com/tanvispace/coffee-landing-page/blob/main/Screenshot%202025-07-06%20203227.png)  
 
 ---
 
